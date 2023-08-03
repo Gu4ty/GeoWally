@@ -1,0 +1,11 @@
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\Parser.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\Parser.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\ASTHierarchy.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\Compiling.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\Compiling.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\ASTHierarchy.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\obj\Debug\Parser.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\obj\Debug\Parser.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\GeoObjects.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Parser\bin\Debug\GeoObjects.pdb

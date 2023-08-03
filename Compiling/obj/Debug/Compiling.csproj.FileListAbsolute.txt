@@ -1,0 +1,20 @@
+C:\Users\Ludwig\Documents\Visual Studio 2012\Projects\WallEApp\Compiling\bin\Debug\Compiling.dll
+C:\Users\Ludwig\Documents\Visual Studio 2012\Projects\WallEApp\Compiling\bin\Debug\Compiling.pdb
+C:\Users\Ludwig\Documents\Visual Studio 2012\Projects\WallEApp\Compiling\obj\Debug\Compiling.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig\Documents\Visual Studio 2012\Projects\WallEApp\Compiling\obj\Debug\Compiling.dll
+C:\Users\Ludwig\Documents\Visual Studio 2012\Projects\WallEApp\Compiling\obj\Debug\Compiling.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Compiling\bin\Debug\Compiling.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Compiling\bin\Debug\Compiling.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Compiling\obj\Debug\Compiling.csprojResolveAssemblyReference.cache
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Compiling\obj\Debug\Compiling.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Compiling\obj\Debug\Compiling.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\GeoWallE Project\Compiling\obj\Debug\Compiling.csprojResolveAssemblyReference.cache
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\GeoWallE Project\Compiling\obj\Debug\Compiling.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\GeoWallE Project\Compiling\obj\Debug\Compiling.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\GeoWallE Project\Compiling\bin\Debug\Compiling.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\GeoWallE Project\Compiling\bin\Debug\Compiling.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Compiling\bin\Debug\Compiling.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Compiling\bin\Debug\Compiling.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Compiling\obj\Debug\Compiling.csprojResolveAssemblyReference.cache
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Compiling\obj\Debug\Compiling.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\Compiling\obj\Debug\Compiling.pdb

@@ -1,0 +1,9 @@
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\bin\Debug\ASTHierarchy.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\bin\Debug\ASTHierarchy.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\obj\Debug\ASTHierarchy.csprojResolveAssemblyReference.cache
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\obj\Debug\ASTHierarchy.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\obj\Debug\ASTHierarchy.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\bin\Debug\Compiling.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\bin\Debug\Compiling.pdb
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\bin\Debug\GeoObjects.dll
+G:\Universidad\CC\1er año\Programación\Segundo Proyecto\GeoWallE\GeoWallE\ASTHierarchy\bin\Debug\GeoObjects.pdb

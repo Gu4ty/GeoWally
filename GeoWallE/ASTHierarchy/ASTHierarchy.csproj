@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{45772555-68FE-4DF6-B81B-CF93D72F84D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ASTHierarchy</RootNamespace>
+    <AssemblyName>ASTHierarchy</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Expressions\BinaryOperators\OperatorNode.cs" />
+    <Compile Include="Expressions\CircleConstructorNode.cs" />
+    <Compile Include="Expressions\ConditionExpNode.cs" />
+    <Compile Include="Expressions\InfiniteSequenceNode.cs" />
+    <Compile Include="Expressions\IntervalSequenceNode.cs" />
+    <Compile Include="Expressions\LetInExpNode.cs" />
+    <Compile Include="Expressions\LineConstructorNode.cs" />
+    <Compile Include="ASTNode.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="Expressions\Expression.cs" />
+    <Compile Include="Expressions\FuncCallNode.cs" />
+    <Compile Include="Expressions\PointConstructorNode.cs" />
+    <Compile Include="Expressions\RayConstructorNode.cs" />
+    <Compile Include="Expressions\SegmentConstructorNode.cs" />
+    <Compile Include="Expressions\FiniteSequenceNode.cs" />
+    <Compile Include="Expressions\SequenceNode.cs" />
+    <Compile Include="IApplicationManager.cs" />
+    <Compile Include="IContext.cs" />
+    <Compile Include="Expressions\NumberNode.cs" />
+    <Compile Include="IRunContext.cs" />
+    <Compile Include="ProgramNode.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RunContext.cs" />
+    <Compile Include="Statements\AssignmentNode.cs" />
+    <Compile Include="Statements\CircleInputNode.cs" />
+    <Compile Include="Statements\ColorNode.cs" />
+    <Compile Include="Statements\DrawNode.cs" />
+    <Compile Include="Statements\FunctionDefinitionNode.cs" />
+    <Compile Include="Statements\InputStatNode.cs" />
+    <Compile Include="Statements\LineInputNode.cs" />
+    <Compile Include="Statements\MatchDeclarationNode.cs" />
+    <Compile Include="Statements\PointInputNode.cs" />
+    <Compile Include="Statements\RayInputNode.cs" />
+    <Compile Include="Statements\SegmentInputNode.cs" />
+    <Compile Include="Statements\SimpleAssignmentNode.cs" />
+    <Compile Include="Statements\StatementNode.cs" />
+    <Compile Include="Expressions\NameNode.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Compiling\Compiling.csproj">
+      <Project>{02c31552-29a3-4734-8d4a-9c001beb8a4b}</Project>
+      <Name>Compiling</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\GeoObjects\GeoObjects.csproj">
+      <Project>{87651ee2-007d-459f-b7d8-311210c4d3c6}</Project>
+      <Name>GeoObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
